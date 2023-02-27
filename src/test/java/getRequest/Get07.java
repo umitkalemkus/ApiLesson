@@ -110,13 +110,7 @@ public class Get07 extends DummyBaseURL {
              System.out.println("İDs: " + idS);
              assertEquals(7,idS.size());
 
-
-
-
-
-
-
-         }
+     }
 
 
      }

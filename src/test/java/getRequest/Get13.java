@@ -71,6 +71,7 @@ public class Get13 extends GorestCoBaseURL {
         GoRestCoApiPojo actualDataPojo = response.as(GoRestCoApiPojo.class);
         System.out.println("Actual Data: " + actualDataPojo);
 
+
         assertEquals(goRestCoApiPojo.getEmail(),actualDataPojo.getEmail());
         assertEquals(goRestCoApiPojo.getGender(),actualDataPojo.getGender());
         assertEquals(goRestCoApiPojo.getName(),actualDataPojo.getName());

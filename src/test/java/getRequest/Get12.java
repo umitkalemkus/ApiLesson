@@ -4,7 +4,7 @@ import baseURLs.GorestCoBaseURL;
 import io.restassured.response.Response;
 import org.junit.Test;
 import pojoDatas.GoRestCoApiPojo;
-import utulities.JsonToJava;
+import utilities.JsonToJava;
 
 import java.util.HashMap;
 

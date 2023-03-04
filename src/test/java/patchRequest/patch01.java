@@ -4,7 +4,7 @@ import baseURLs.RestFullBookerHerOkuAppBaseURL;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.Test;
-import utulities.JsonToJava;
+import utilities.JsonToJava;
 
 import java.io.File;
 import java.util.HashMap;

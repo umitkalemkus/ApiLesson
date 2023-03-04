@@ -1,4 +1,4 @@
-package utulities;
+package utilities;
 
 import org.codehaus.jackson.map.ObjectMapper;
 import java.io.File;

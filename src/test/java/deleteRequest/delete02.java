@@ -63,6 +63,7 @@ public class delete02 extends DummyBaseURL {
         response.prettyPrint();
 
 
+
         //Step4: Assertion
 
         JsonPath jsonPath = response.jsonPath();

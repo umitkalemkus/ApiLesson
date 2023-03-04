@@ -3,7 +3,7 @@ package getRequest;
 import baseURLs.JsonPlaceHolderBaseUR;
 import io.restassured.response.Response;
 import org.junit.Test;
-import utulities.JsonToJava;
+import utilities.JsonToJava;
 
 import java.util.HashMap;
 
